@@ -1,0 +1,19 @@
+{
+  "album_id": "862",
+  "album_title": "Ridin Dirty Turns Thirty",
+  "artist": "UGK",
+  "source_url": "https://vault-api.djslimk.com/api/cover-art/al-862?size=1200",
+  "source_content_type": "image/jpeg",
+  "source_sha256": "86256fa252483e160c6e6d66b6ce0bf133656f7c4d5a4c875bd880f26bb53616",
+  "source_bytes": 321540,
+  "source_width": 1024,
+  "source_height": 1024,
+  "asset_file": "/Users/skworldwideindustries/.hermes/repos/skw-email-assets/2026-08-01/ridin-dirty-weekend/ugk-ridin-dirty-turns-thirty-email-e5cbe8b30b8f.jpg",
+  "asset_relative_path": "2026-08-01/ridin-dirty-weekend/ugk-ridin-dirty-turns-thirty-email-e5cbe8b30b8f.jpg",
+  "asset_raw_url": "https://raw.githubusercontent.com/SlimK4/skw-email-assets/main/2026-08-01/ridin-dirty-weekend/ugk-ridin-dirty-turns-thirty-email-e5cbe8b30b8f.jpg",
+  "asset_sha256": "e5cbe8b30b8f720ab5a0e298ab17c3630e0ac4c84c4deb9b120746f2a1da33c3",
+  "asset_bytes": 122907,
+  "asset_width": 900,
+  "asset_height": 900,
+  "jpeg_quality": 84
+}
